@@ -1,0 +1,12 @@
+{
+  "time": {
+    "today_target_time": "05:00:00",
+    "tomorrow_target_time": "18:00:00"
+  },
+  "place": {
+    "東京都": {
+      "placeNumber": 130010,
+      "colorCode": "0xB1063A"
+    }
+  }
+}

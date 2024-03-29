@@ -1,0 +1,2 @@
+class SharedListManager:
+  sharedList = []

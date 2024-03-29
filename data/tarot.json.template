@@ -1,0 +1,950 @@
+{
+  "Big": {
+    "The fool": {
+      "Upright": {
+        "name": "愚者",
+        "meaning": "意味を書く",
+        "imagePath": "./images/the_fool.png"
+      },
+      "Reverse": {
+        "name": "愚者（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_fool_reverse.png"
+      }
+    },
+    "The magician": {
+      "Upright": {
+        "name": "魔術師",
+        "meaning": "",
+        "imagePath": "./images/the_magician.png"
+      },
+      "Reverse": {
+        "name": "魔術師（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_magician_reverse.png"
+      }
+    },
+    "The high priestess": {
+      "Upright": {
+        "name": "女教皇",
+        "meaning": "",
+        "imagePath": "./images/the_high_priestess.png"
+      },
+      "Reverse": {
+        "name": "女教皇（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_high_priestess_reverse.png"
+      }
+    },
+    "The empress": {
+      "Upright": {
+        "name": "女帝",
+        "meaning": "",
+        "imagePath": "./images/the_empress.png"
+      },
+      "Reverse": {
+        "name": "女帝（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_empress_reverse.png"
+      }
+    },
+    "The emperor": {
+      "Upright": {
+        "name": "皇帝",
+        "meaning": "",
+        "imagePath": "./images/the_emperor.png"
+      },
+      "Reverse": {
+        "name": "皇帝（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_emperor_reverse.png"
+      }
+    },
+    "The hierophant": {
+      "Upright": {
+        "name": "法王",
+        "meaning": "",
+        "imagePath": "./images/the_hierophant.png"
+      },
+      "Reverse": {
+        "name": "法王（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_hierophant_reverse.png"
+      }
+    },
+    "The lovers": {
+      "Upright": {
+        "name": "恋人たち",
+        "meaning": "",
+        "imagePath": "./images/the_lovers.png"
+      },
+      "Reverse": {
+        "name": "恋人たち（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_lovers_reverse.png"
+      }
+    },
+    "The chariot": {
+      "Upright": {
+        "name": "戦車",
+        "meaning": "",
+        "imagePath": "./images/the_chariot.png"
+      },
+      "Reverse": {
+        "name": "戦車（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_chariot_reverse.png"
+      }
+    },
+    "Strength": {
+      "Upright": {
+        "name": "力",
+        "meaning": "",
+        "imagePath": "./images/strength.png"
+      },
+      "Reverse": {
+        "name": "力（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/strength_reverse.png"
+      }
+    },
+    "The hermit": {
+      "Upright": {
+        "name": "隠者",
+        "meaning": "",
+        "imagePath": "./images/the_hermit.png"
+      },
+      "Reverse": {
+        "name": "隠者（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_hermit_reverse.png"
+      }
+    },
+    "Wheel of fortune": {
+      "Upright": {
+        "name": "運命の輪",
+        "meaning": "",
+        "imagePath": "./images/wheel_of_fortune.png"
+      },
+      "Reverse": {
+        "name": "運命の輪（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/wheel_of_fortune_reverse.png"
+      }
+    },
+    "Justice": {
+      "Upright": {
+        "name": "正義",
+        "meaning": "",
+        "imagePath": "./images/justice.png"
+      },
+      "Reverse": {
+        "name": "正義（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/justice_reverse.png"
+      }
+    },
+    "The hanged man": {
+      "Upright": {
+        "name": "吊るされた男",
+        "meaning": "",
+        "imagePath": "./images/the_hanged_man.png"
+      },
+      "Reverse": {
+        "name": "吊るされた男（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_hanged_man_reverse.png"
+      }
+    },
+    "Death": {
+      "Upright": {
+        "name": "死神",
+        "meaning": "",
+        "imagePath": "./images/death.png"
+      },
+      "Reverse": {
+        "name": "死神（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/death_reverse.png"
+      }
+    },
+    "Temperance": {
+      "Upright": {
+        "name": "節制",
+        "meaning": "",
+        "imagePath": "./images/temperance.png"
+      },
+      "Reverse": {
+        "name": "節制（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/temperance_reverse.png"
+      }
+    },
+    "The devil": {
+      "Upright": {
+        "name": "悪魔",
+        "meaning": "",
+        "imagePath": "./images/the_devil.png"
+      },
+      "Reverse": {
+        "name": "悪魔（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_devil_reverse.png"
+      }
+    },
+    "The tower": {
+      "Upright": {
+        "name": "塔",
+        "meaning": "",
+        "imagePath": "./images/the_tower.png"
+      },
+      "Reverse": {
+        "name": "塔（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_tower_reverse.png"
+      }
+    },
+    "The star": {
+      "Upright": {
+        "name": "星",
+        "meaning": "",
+        "imagePath": "./images/the_star.png"
+      },
+      "Reverse": {
+        "name": "星（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_star_reverse.png"
+      }
+    },
+    "The moon": {
+      "Upright": {
+        "name": "月",
+        "meaning": "",
+        "imagePath": "./images/the_moon.png"
+      },
+      "Reverse": {
+        "name": "月（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_moon_reverse.png"
+      }
+    },
+    "The sun": {
+      "Upright": {
+        "name": "太陽",
+        "meaning": "",
+        "imagePath": "./images/the_sun.png"
+      },
+      "Reverse": {
+        "name": "太陽（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_sun_reverse.png"
+      }
+    },
+    "Judgement": {
+      "Upright": {
+        "name": "審判",
+        "meaning": "",
+        "imagePath": "./images/judgement.png"
+      },
+      "Reverse": {
+        "name": "審判（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/judgement_reverse.png"
+      }
+    },
+    "The world": {
+      "Upright": {
+        "name": "世界",
+        "meaning": "",
+        "imagePath": "./images/the_world.png"
+      },
+      "Reverse": {
+        "name": "世界（逆位置）",
+        "meaning": "",
+        "imagePath": "./images/the_world_reverse.png"
+      }
+    }
+  },
+  "Small": {
+    "Swords": {
+      "Ace": {
+        "Upright": {
+          "name": "ソードのエース",
+          "meaning": "",
+          "imagePath": "./images/ace_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードのエース（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ace_of_swords_reverse.png"
+        }
+      },
+      "Two": {
+        "Upright": {
+          "name": "ソードの2",
+          "meaning": "",
+          "imagePath": "./images/two_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの2（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/two_of_swords_reverse.png"
+        }
+      },
+      "Three": {
+        "Upright": {
+          "name": "ソードの3",
+          "meaning": "",
+          "imagePath": "./images/three_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの3（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/three_of_swords_reverse.png"
+        }
+      },
+      "Four": {
+        "Upright": {
+          "name": "ソードの4",
+          "meaning": "",
+          "imagePath": "./images/four_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの4（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/four_of_swords_reverse.png"
+        }
+      },
+      "Five": {
+        "Upright": {
+          "name": "ソードの5",
+          "meaning": "",
+          "imagePath": "./images/five_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの5（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/five_of_swords_reverse.png"
+        }
+      },
+      "Six": {
+        "Upright": {
+          "name": "ソードの6",
+          "meaning": "",
+          "imagePath": "./images/six_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの6（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/six_of_swords_reverse.png"
+        }
+      },
+      "Seven": {
+        "Upright": {
+          "name": "ソードの7",
+          "meaning": "",
+          "imagePath": "./images/seven_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの7（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/seven_of_swords_reverse.png"
+        }
+      },
+      "Eight": {
+        "Upright": {
+          "name": "ソードの8",
+          "meaning": "",
+          "imagePath": "./images/eight_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの8（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/eight_of_swords_reverse.png"
+        }
+      },
+      "Nine": {
+        "Upright": {
+          "name": "ソードの9",
+          "meaning": "",
+          "imagePath": "./images/nine_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの9（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/nine_of_swords_reverse.png"
+        }
+      },
+      "Ten": {
+        "Upright": {
+          "name": "ソードの10",
+          "meaning": "",
+          "imagePath": "./images/ten_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードの10（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ten_of_swords_reverse.png"
+        }
+      },
+      "Page": {
+        "Upright": {
+          "name": "ソードのペイジ",
+          "meaning": "",
+          "imagePath": "./images/page_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードのペイジ（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/page_of_swords_reverse.png"
+        }
+      },
+      "Knight": {
+        "Upright": {
+          "name": "ソードのナイト",
+          "meaning": "",
+          "imagePath": "./images/knight_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードのナイト（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/knight_of_swords_reverse.png"
+        }
+      },
+      "Queen": {
+        "Upright": {
+          "name": "ソードのクイーン",
+          "meaning": "",
+          "imagePath": "./images/queen_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードのクイーン（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/queen_of_swords_reverse.png"
+        }
+      },
+      "King": {
+        "Upright": {
+          "name": "ソードのキング",
+          "meaning": "",
+          "imagePath": "./images/king_of_swords.png"
+        },
+        "Reverse": {
+          "name": "ソードのキング（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/king_of_swords_reverse.png"
+        }
+      }
+    },
+    "Cups": {
+      "Ace": {
+        "Upright": {
+          "name": "カップのエース",
+          "meaning": "",
+          "imagePath": "./images/ace_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップのエース（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ace_of_cups_reverse.png"
+        }
+      },
+      "Two": {
+        "Upright": {
+          "name": "カップの2",
+          "meaning": "",
+          "imagePath": "./images/two_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの2（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/two_of_cups_reverse.png"
+        }
+      },
+      "Three": {
+        "Upright": {
+          "name": "カップの3",
+          "meaning": "",
+          "imagePath": "./images/three_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの3（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/three_of_cups_reverse.png"
+        }
+      },
+      "Four": {
+        "Upright": {
+          "name": "カップの4",
+          "meaning": "",
+          "imagePath": "./images/four_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの4（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/four_of_cups_reverse.png"
+        }
+      },
+      "Five": {
+        "Upright": {
+          "name": "カップの5",
+          "meaning": "",
+          "imagePath": "./images/five_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの5（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/five_of_cups_reverse.png"
+        }
+      },
+      "Six": {
+        "Upright": {
+          "name": "カップの6",
+          "meaning": "",
+          "imagePath": "./images/six_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの6（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/six_of_cups_reverse.png"
+        }
+      },
+      "Seven": {
+        "Upright": {
+          "name": "カップの7",
+          "meaning": "",
+          "imagePath": "./images/seven_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの7（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/seven_of_cups_reverse.png"
+        }
+      },
+      "Eight": {
+        "Upright": {
+          "name": "カップの8",
+          "meaning": "",
+          "imagePath": "./images/eight_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの8（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/eight_of_cups_reverse.png"
+        }
+      },
+      "Nine": {
+        "Upright": {
+          "name": "カップの9",
+          "meaning": "",
+          "imagePath": "./images/nine_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの9（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/nine_of_cups_reverse.png"
+        }
+      },
+      "Ten": {
+        "Upright": {
+          "name": "カップの10",
+          "meaning": "",
+          "imagePath": "./images/ten_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップの10（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ten_of_cups_reverse.png"
+        }
+      },
+      "Page": {
+        "Upright": {
+          "name": "カップのペイジ",
+          "meaning": "",
+          "imagePath": "./images/page_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップのペイジ（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/page_of_cups_reverse.png"
+        }
+      },
+      "Knight": {
+        "Upright": {
+          "name": "カップのナイト",
+          "meaning": "",
+          "imagePath": "./images/knight_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップのナイト（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/knight_of_cups_reverse.png"
+        }
+      },
+      "Queen": {
+        "Upright": {
+          "name": "カップのクイーン",
+          "meaning": "",
+          "imagePath": "./images/queen_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップのクイーン（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/queen_of_cups_reverse.png"
+        }
+      },
+      "King": {
+        "Upright": {
+          "name": "カップのキング",
+          "meaning": "",
+          "imagePath": "./images/king_of_cups.png"
+        },
+        "Reverse": {
+          "name": "カップのキング（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/king_of_cups_reverse.png"
+        }
+      }
+    },
+    "Wands": {
+      "Ace": {
+        "Upright": {
+          "name": "ワンドのエース",
+          "meaning": "",
+          "imagePath": "./images/ace_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドのエース（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ace_of_wands_reverse.png"
+        }
+      },
+      "Two": {
+        "Upright": {
+          "name": "ワンドの2",
+          "meaning": "",
+          "imagePath": "./images/two_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの2（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/two_of_wands_reverse.png"
+        }
+      },
+      "Three": {
+        "Upright": {
+          "name": "ワンドの3",
+          "meaning": "",
+          "imagePath": "./images/three_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの3（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/three_of_wands_reverse.png"
+        }
+      },
+      "Four": {
+        "Upright": {
+          "name": "ワンドの4",
+          "meaning": "",
+          "imagePath": "./images/four_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの4（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/four_of_wands_reverse.png"
+        }
+      },
+      "Five": {
+        "Upright": {
+          "name": "ワンドの5",
+          "meaning": "",
+          "imagePath": "./images/five_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの5（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/five_of_wands_reverse.png"
+        }
+      },
+      "Six": {
+        "Upright": {
+          "name": "ワンドの6",
+          "meaning": "",
+          "imagePath": "./images/six_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの6（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/six_of_wands_reverse.png"
+        }
+      },
+      "Seven": {
+        "Upright": {
+          "name": "ワンドの7",
+          "meaning": "",
+          "imagePath": "./images/seven_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの7（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/seven_of_wands_reverse.png"
+        }
+      },
+      "Eight": {
+        "Upright": {
+          "name": "ワンドの8",
+          "meaning": "",
+          "imagePath": "./images/eight_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの8（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/eight_of_wands_reverse.png"
+        }
+      },
+      "Nine": {
+        "Upright": {
+          "name": "ワンドの9",
+          "meaning": "",
+          "imagePath": "./images/nine_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの9（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/nine_of_wands_reverse.png"
+        }
+      },
+      "Ten": {
+        "Upright": {
+          "name": "ワンドの10",
+          "meaning": "",
+          "imagePath": "./images/ten_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドの10（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ten_of_wands_reverse.png"
+        }
+      },
+      "Page": {
+        "Upright": {
+          "name": "ワンドのペイジ",
+          "meaning": "",
+          "imagePath": "./images/page_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドのペイジ（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/page_of_wands_reverse.png"
+        }
+      },
+      "Knight": {
+        "Upright": {
+          "name": "ワンドのナイト",
+          "meaning": "",
+          "imagePath": "./images/knight_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドのナイト（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/knight_of_wands_reverse.png"
+        }
+      },
+      "Queen": {
+        "Upright": {
+          "name": "ワンドのクイーン",
+          "meaning": "",
+          "imagePath": "./images/queen_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドのクイーン（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/queen_of_wands_reverse.png"
+        }
+      },
+      "King": {
+        "Upright": {
+          "name": "ワンドのキング",
+          "meaning": "",
+          "imagePath": "./images/king_of_wands.png"
+        },
+        "Reverse": {
+          "name": "ワンドのキング（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/king_of_wands_reverse.png"
+        }
+      }
+    },
+    "Pentacles": {
+      "Ace": {
+        "Upright": {
+          "name": "ペンタクルのエース",
+          "meaning": "",
+          "imagePath": "./images/ace_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルのエース（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ace_of_pentacles_reverse.png"
+        }
+      },
+      "Two": {
+        "Upright": {
+          "name": "ペンタクルの2",
+          "meaning": "",
+          "imagePath": "./images/two_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの2（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/two_of_pentacles_reverse.png"
+        }
+      },
+      "Three": {
+        "Upright": {
+          "name": "ペンタクルの3",
+          "meaning": "",
+          "imagePath": "./images/three_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの3（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/three_of_pentacles_reverse.png"
+        }
+      },
+      "Four": {
+        "Upright": {
+          "name": "ペンタクルの4",
+          "meaning": "",
+          "imagePath": "./images/four_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの4（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/four_of_pentacles_reverse.png"
+        }
+      },
+      "Five": {
+        "Upright": {
+          "name": "ペンタクルの5",
+          "meaning": "",
+          "imagePath": "./images/five_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの5（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/five_of_pentacles_reverse.png"
+        }
+      },
+      "Six": {
+        "Upright": {
+          "name": "ペンタクルの6",
+          "meaning": "",
+          "imagePath": "./images/six_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの6（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/six_of_pentacles_reverse.png"
+        }
+      },
+      "Seven": {
+        "Upright": {
+          "name": "ペンタクルの7",
+          "meaning": "",
+          "imagePath": "./images/seven_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの7（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/seven_of_pentacles_reverse.png"
+        }
+      },
+      "Eight": {
+        "Upright": {
+          "name": "ペンタクルの8",
+          "meaning": "",
+          "imagePath": "./images/eight_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの8（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/eight_of_pentacles_reverse.png"
+        }
+      },
+      "Nine": {
+        "Upright": {
+          "name": "ペンタクルの9",
+          "meaning": "",
+          "imagePath": "./images/nine_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの9（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/nine_of_pentacles_reverse.png"
+        }
+      },
+      "Ten": {
+        "Upright": {
+          "name": "ペンタクルの10",
+          "meaning": "",
+          "imagePath": "./images/ten_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルの10（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/ten_of_pentacles_reverse.png"
+        }
+      },
+      "Page": {
+        "Upright": {
+          "name": "ペンタクルのペイジ",
+          "meaning": "",
+          "imagePath": "./images/page_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルのペイジ（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/page_of_pentacles_reverse.png"
+        }
+      },
+      "Knight": {
+        "Upright": {
+          "name": "ペンタクルのナイト",
+          "meaning": "",
+          "imagePath": "./images/knight_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルのナイト（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/knight_of_pentacles_reverse.png"
+        }
+      },
+      "Queen": {
+        "Upright": {
+          "name": "ペンタクルのクイーン",
+          "meaning": "",
+          "imagePath": "./images/queen_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルのクイーン（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/queen_of_pentacles_reverse.png"
+        }
+      },
+      "King": {
+        "Upright": {
+          "name": "ペンタクルのキング",
+          "meaning": "",
+          "imagePath": "./images/king_of_pentacles.png"
+        },
+        "Reverse": {
+          "name": "ペンタクルのキング（逆位置）",
+          "meaning": "",
+          "imagePath": "./images/king_of_pentacles_reverse.png"
+        }
+      }
+    }
+  }
+}
